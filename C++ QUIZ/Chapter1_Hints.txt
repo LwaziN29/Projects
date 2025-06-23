@@ -1,0 +1,34 @@
+1|The intro describes the event that made Earth uninhabitable.
+2|The intro states the percentage of the population that survived.
+3|The name of the evacuation plan is mentioned explicitly in the intro.
+4|The main objective of the journey is stated towards the end of the intro.
+5|The intro mentions the challenges faced by the survivors in space.
+6|Focus on the immediate aftermath of the toxic bomb explosion described in the intro.
+7|The purpose of Project Exodus is clearly stated in the first part of the intro.
+8|Think about the overall context of being in "the void of space".
+9|The intro mentions "supplies are limited" and the uncertainty of the journey.
+10|Consider how breathable air is created on Earth and apply that to a spaceship context.
+11|The intro uses the term "a fleet of emergency spaceships".
+12|The intro focuses on the challenges of the journey rather than immediate actions upon departure.
+13|Think about what happens to something that stops moving in space.
+14|Consider the most efficient and long-lasting energy sources capable of powering a spacecraft across vast distances in the vacuum of space, where traditional methods like wind or gasoline wouldn't function
+15|The reason for rationing is tied to the length and uncertainty of their journey.
+16|This requires inferring who would be responsible for "keeping the ship alive".
+17|Think about how a large, high-tech ship would efficiently relay messages across different sections—without relying on primitive or futuristic methods
+18|This requires inferring what a "crack" might lead to in space.
+19|Survivors must assess a planet's habitability efficiently—relying on technology rather than guesswork or luck. What method would provide precise data without unnecessary risk?
+20|Consider what is essential for survival in the given scenario.
+21|The intro describes space as "the endless void".
+22|Think about the core operational needs of a starship—what practical tasks would an AI handle to keep the vessel and its crew functioning safely?
+23|The intro mentions breathable air in relation to the catastrophe.
+24|The first sentence of the intro describes the catastrophe.
+25|The intro describes the bomb as a "last-resort weapon".
+26|The intro mentions "supplies are limited".
+27|The intro states the percentage of casualties.
+28|The intro uses the phrase "a fleet of emergency spaceships".
+29|The intro describes the engines "roar".
+30|The intro describes the atmosphere after the bomb.
+31|The evacuation plan's name is in the intro.
+32|The intro describes the journey as filled with "uncertainty" and "struggles".
+33|The intro mentions "constant maintenance".
+34|The mission is to "find a new planet, adapt, and survive".
